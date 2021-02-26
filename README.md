@@ -19,3 +19,7 @@ Después de la instalación, sólo tenemos que ejecutar en una terminal:
 o con tema oscuro:
 
 <code>voila --theme=dark LinkedIn_Analytics.ipynb </code>
+
+También puedes lanzar el notebook en Binder y ejecutarlo desde allí:
+
+https://mybinder.org/v2/gh/SergioPereiraLema/LinkedInAnalytics/main
