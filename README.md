@@ -2,7 +2,7 @@
 
 El propósito de este Notebook es mostrar la facilidad de analizar los contactos de LinkedIn y mostrar los datos en gráficos interactivos, usando Pandas y Plotly Express. 
 
-Está basado en el artículo original publicado en https://towardsdatascience.com/analyzing-my-own-linkedin-data-24df63a9dc28
+Está basado en el artículo original publicado en https://towardsdatascience.com/analyzing-my-own-linkedin-data-24df63a9dc28 extendiendo la personalización de los gráficos para mostrar algunas posibilidades de Plotly.Express
 
 Puedes visualizar las gráficas del notebook en un navegador usando Voilà. Voilà es un paquete de Python que convierte los notebooks de Jupiter en aplicaciones web. El usuario verá el notebook como una web, y los bloques del notebook se ejecutarán antes de mostrarlos al usuario. Los bloques de código no se mostrarán por defecto.
 
